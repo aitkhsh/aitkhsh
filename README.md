@@ -11,7 +11,7 @@
 感謝の循環によって、普段のコミュニティ活動をより豊かにし、相手の気持ちが目に見える形で伝わることを目指しています。<br>
 
 ## アウトプット
-#### Qiita：https://x.com/aiaipanick](https://qiita.com/aitkhsh)
+#### Qiita：https://qiita.com/aitkhsh
 #### note：https://note.com/aiaipanick
 #### X：https://x.com/aiaipanick
 
