@@ -1,4 +1,5 @@
-# ポートフォリオ：あむ編むコミュ！（略して、あむコミュ！）
+# ポートフォリオ：あむ編むコミュ！
+（略して、あむコミュ！）
 #### サービスURL：https://amucommu.com
 #### リポジトリURL：https://github.com/aitkhsh/knitcommu
 #### 技術記事URL: https://qiita.com/aitkhsh/items/8986049ec094ceed76f9
@@ -8,6 +9,11 @@
 **あむ編むコミュ！**（あむコミュ！）は、同じコミュニティ内で「感謝の気持ち」を表現し、相手が喜ぶ画像をAIで生成してプレゼントするサービスです。<br>
 ユーザーは、感謝メッセージを3回送信するごとに「ニット系アイテム」を獲得でき、コレクションとして収集できます。<br>
 感謝の循環によって、普段のコミュニティ活動をより豊かにし、相手の気持ちが目に見える形で伝わることを目指しています。<br>
+
+## アウトプット
+#### Qiita：https://x.com/aiaipanick](https://qiita.com/aitkhsh)
+#### note：https://note.com/aiaipanick
+#### X：https://x.com/aiaipanick
 
 <p align="left">
   <a href="https://github.com/aitkhsh/aitkhsh/">
@@ -24,14 +30,17 @@
   </a>
 </p>
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=aitkhsh&show_icons=true&theme=ambient_gradient" />
+  <img alt="Ai's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitkhsh&layout=compact&theme=ambient_gradient" />
+</p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aitkhsh)](https://github.com/aitkhsh/github-profile-trophy)
 
-## アウトプット
-#### Qiita：https://x.com/aiaipanick](https://qiita.com/aitkhsh)
-#### note：https://note.com/aiaipanick
-#### X：https://x.com/aiaipanick
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitkhsh&show_icons=true&theme=solarized-light)
 **aitkhsh/aitkhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
