@@ -13,9 +13,6 @@
   <a href="https://github.com/aitkhsh/aitkhsh/">
     <img src="https://komarev.com/ghpvc/?username=aitkhsh" alt="aitkhsh" />
   </a>
-  <a href="http://twitter.com/aiaipanick">
-    <img height="20" src="https://img.shields.io/twitter/follow/aiaipanick?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/aitkhsh">
     <img height="20" src="https://img.shields.io/github/followers/aitkhsh?label=follow&logo=github&style=flat" />
   </a>
@@ -27,6 +24,12 @@
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aitkhsh)](https://github.com/aitkhsh/github-profile-trophy)
+
+## アウトプット
+#### Qiita：https://x.com/aiaipanick](https://qiita.com/aitkhsh)
+#### note：https://note.com/aiaipanick
+#### X：https://x.com/aiaipanick
 
 <!--
 **aitkhsh/aitkhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
