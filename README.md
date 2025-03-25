@@ -1,10 +1,20 @@
-# ポートフォリオ：あむ編むコミュ！
-（略して、あむコミュ！）
-#### サービスURL：https://amucommu.com
-#### リポジトリURL：https://github.com/aitkhsh/knitcommu
-#### 技術記事URL: https://qiita.com/aitkhsh/items/8986049ec094ceed76f9
 [![Image from Gyazo](https://i.gyazo.com/4c08aca9c043423da3871226f171a3d4.png)](https://gyazo.com/4c08aca9c043423da3871226f171a3d4)
+# ポートフォリオ：あむ編むコミュ！（略して、あむコミュ！）
+**「あむ編むコミュ！」は、AI生成の画像を通じて、コミュニティ内で感謝の気持ちを楽しく共有できるサービスです。**
 
+## サービス概要
+「あむ編むコミュ！」は、コミュニティ内で感謝の気持ちをAI生成の画像として共有できるプラットフォームです。<br>
+ユーザーは感謝のメッセージを送信することで、オリジナルのニット系アイテムを獲得し、コレクションする楽しみも提供します。<br>
+これにより、コミュニティ内の交流を促進し、感謝の気持ちを視覚的に伝える新しい体験を提供します。<br>
+
+## アウトプット
+| 種別 | リンク | 説明 |
+|------|--------|------|
+| サービスURL | https://amucommu.com | サービスの公式サイト |
+| リポジトリURL | https://github.com/aitkhsh/knitcommu | ソースコード |
+| 技術記事URL | https://qiita.com/aitkhsh/items/8986049ec094ceed76f9 | 技術記事 |
+
+<!--
 ### サービス概要
 **あむ編むコミュ！**（あむコミュ！）は、同じコミュニティ内で「感謝の気持ち」を表現し、相手が喜ぶ画像をAIで生成してプレゼントするサービスです。<br>
 ユーザーは、感謝メッセージを3回送信するごとに「ニット系アイテム」を獲得でき、コレクションとして収集できます。<br>
@@ -14,6 +24,15 @@
 #### Qiita：https://qiita.com/aitkhsh
 #### note：https://note.com/aiaipanick
 #### X：https://x.com/aiaipanick
+
+## リンク
+- #### サービスURL：https://amucommu.com
+  サービスの公式サイトです。
+- #### リポジトリURL：https://github.com/aitkhsh/knitcommu
+  ソースコードやプロジェクトの詳細情報を掲載しています。
+- #### 技術記事URL: https://qiita.com/aitkhsh/items/8986049ec094ceed76f9
+  技術的な解説記事を掲載しています。
+-->
 
 <p align="left">
   <a href="https://github.com/aitkhsh/aitkhsh/">
